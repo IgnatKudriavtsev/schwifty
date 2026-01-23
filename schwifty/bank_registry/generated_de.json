@@ -208,8 +208,8 @@
   },
   {
     "bank_code": "10030200",
-    "name": "Berlin Hyp",
-    "short_name": "Berlin Hyp",
+    "name": "Landesbank Baden-W\u00fcrttemberg",
+    "short_name": "LBBW Berlin",
     "bic": "BHYPDEB2XXX",
     "primary": true,
     "country_code": "DE",
@@ -352,8 +352,8 @@
   },
   {
     "bank_code": "10050000",
-    "name": "Landesbank Berlin - Berliner Sparkasse",
-    "short_name": "LBB - Berliner Sparkasse",
+    "name": "BSK 1818 - Berliner Sparkasse",
+    "short_name": "BSK 1818-Berliner Sparkasse",
     "bic": "BELADEBEXXX",
     "primary": true,
     "country_code": "DE",
@@ -649,8 +649,8 @@
   },
   {
     "bank_code": "10090900",
-    "name": "PSD Bank Berlin-Brandenburg",
-    "short_name": "PSD Bank Berlin",
+    "name": "PSD Bank Berlin-Brandenburg -alt-",
+    "short_name": "PSD Bank Berlin -alt-",
     "bic": "GENODEF1P01",
     "primary": true,
     "country_code": "DE",
@@ -3439,8 +3439,8 @@
   },
   {
     "bank_code": "20069177",
-    "name": "Raiffeisenbank S\u00fcdstormarn M\u00f6lln",
-    "short_name": "Raiffbk S\u00fcdstormarn M\u00f6lln",
+    "name": "Raiffeisenbank",
+    "short_name": "Raiffeisenbank, M\u00f6lln",
     "bic": "GENODEF1GRS",
     "primary": true,
     "country_code": "DE",
@@ -5166,6 +5166,15 @@
     "checksum_algo": "C5"
   },
   {
+    "bank_code": "21050055",
+    "name": "Hamburg Commercial Bank, GF Retail",
+    "short_name": "Hamburg Commercial Bank",
+    "bic": "HHDBDEH2XXX",
+    "primary": true,
+    "country_code": "DE",
+    "checksum_algo": "09"
+  },
+  {
     "bank_code": "21050170",
     "name": "F\u00f6rde Sparkasse",
     "short_name": "F\u00f6rde Sparkasse",
@@ -5554,8 +5563,8 @@
   },
   {
     "bank_code": "21690020",
-    "name": "VR Bank Schleswig-Mittelholstein",
-    "short_name": "VR Bank SL MH",
+    "name": "VR Bank Schleswig-Mittelholstein -alt-",
+    "short_name": "VR Bank SL-MH -alt-",
     "bic": "GENODEF1SLW",
     "primary": true,
     "country_code": "DE",
@@ -5608,8 +5617,8 @@
   },
   {
     "bank_code": "21762550",
-    "name": "VR Bank Westk\u00fcste",
-    "short_name": "VR Bank Westk\u00fcste",
+    "name": "VR Bank Schleswig-Holstein Mitte",
+    "short_name": "VR Bank SH Mitte",
     "bic": "GENODEF1HUM",
     "primary": true,
     "country_code": "DE",
@@ -5699,7 +5708,7 @@
   {
     "bank_code": "21890022",
     "name": "Dithmarscher Volks- und Raiffeisenbank",
-    "short_name": "Dithmarscher VB Heide",
+    "short_name": "Dithmarscher VRB Heide",
     "bic": "GENODEF1DVR",
     "primary": true,
     "country_code": "DE",
@@ -5905,8 +5914,8 @@
   },
   {
     "bank_code": "23064107",
-    "name": "Raiffeisenbank",
-    "short_name": "Raiffeisenbank B\u00fcchen",
+    "name": "Raiffeisenbank -alt-",
+    "short_name": "Raiffeisenbank B\u00fcchen -alt-",
     "bic": "GENODEF1BCH",
     "primary": true,
     "country_code": "DE",
@@ -6670,8 +6679,8 @@
   },
   {
     "bank_code": "25152490",
-    "name": "Stadtsparkasse Wunstorf",
-    "short_name": "St Spk Wunstorf",
+    "name": "Stadtsparkasse Wunstorf -alt-",
+    "short_name": "St Spk Wunstorf -alt-",
     "bic": "NOLADE21WST",
     "primary": true,
     "country_code": "DE",
@@ -8857,8 +8866,8 @@
   },
   {
     "bank_code": "28068218",
-    "name": "Raiffeisenbank Butjadingen-Abbehausen",
-    "short_name": "Raiffbk Butjadingen-Abbehsn",
+    "name": "Raiffeisenbank Butjadingen-Abbehausen -alt-",
+    "short_name": "Raiffbk Butjadingen-A.-alt-",
     "bic": "GENODEF1BUT",
     "primary": true,
     "country_code": "DE",
@@ -9100,8 +9109,8 @@
   },
   {
     "bank_code": "28262254",
-    "name": "Volksbank Jever",
-    "short_name": "Volksbank Jever",
+    "name": "Volksbank Jever -alt-",
+    "short_name": "Volksbank Jever -alt-",
     "bic": "GENODEF1JEV",
     "primary": true,
     "country_code": "DE",
@@ -9109,8 +9118,8 @@
   },
   {
     "bank_code": "28262673",
-    "name": "Raiffeisen-Volksbank Varel-Nordenham",
-    "short_name": "RVB Varel-Nordenham",
+    "name": "Volksbank Jade-Weser",
+    "short_name": "Volksbank Jade-Weser",
     "bic": "GENODEF1VAR",
     "primary": true,
     "country_code": "DE",
@@ -10003,15 +10012,6 @@
     "name": "EburyPartners Belgium, Zweigniederlassung Deutschland",
     "short_name": "EburyPartners Belgium, DE",
     "bic": "EBPBDED2XXX",
-    "primary": true,
-    "country_code": "DE",
-    "checksum_algo": "09"
-  },
-  {
-    "bank_code": "30018800",
-    "name": "VIVA PAYMENT SERVICES - Zweigniederlassung Deutschland",
-    "short_name": "VIVA Payments",
-    "bic": "VPAYDE32XXX",
     "primary": true,
     "country_code": "DE",
     "checksum_algo": "09"
@@ -12610,8 +12610,8 @@
   },
   {
     "bank_code": "37020200",
-    "name": "Fondsdepot Bank",
-    "short_name": "Fondsdepot Bank",
+    "name": "FNZ Bank",
+    "short_name": "FNZ Bank",
     "bic": "AXABDE31XXX",
     "primary": true,
     "country_code": "DE",
@@ -12763,8 +12763,8 @@
   },
   {
     "bank_code": "37060193",
-    "name": "Pax-Bank",
-    "short_name": "Pax-Bank K\u00f6ln",
+    "name": "Pax-Bank f\u00fcr Kirche und Caritas",
+    "short_name": "Pax-BKC Paderborn",
     "bic": "GENODED1PAX",
     "primary": true,
     "country_code": "DE",
@@ -14977,8 +14977,8 @@
   },
   {
     "bank_code": "40090900",
-    "name": "VR Bank Westfalen-Lippe",
-    "short_name": "VR Bank Westfalen-Lippe",
+    "name": "VR Bank Westfalen-Lippe -alt-",
+    "short_name": "VR Bank Westfalen-Lippe-alt",
     "bic": "GENODEF1P15",
     "primary": true,
     "country_code": "DE",
@@ -15580,8 +15580,8 @@
   },
   {
     "bank_code": "41660124",
-    "name": "Volksbank Beckum-Lippstadt",
-    "short_name": "Volksbank Beckum-Lippstadt",
+    "name": "VR Bank Westfalen-Lippe",
+    "short_name": "VR Bank Westfalen-Lippe",
     "bic": "GENODEM1LPS",
     "primary": true,
     "country_code": "DE",
@@ -15616,8 +15616,8 @@
   },
   {
     "bank_code": "41662465",
-    "name": "Volksbank St\u00f6rmede-H\u00f6rste",
-    "short_name": "VB St\u00f6rmede-H\u00f6rste, Geseke",
+    "name": "Volksbank St\u00f6rmede-Westenholz-H\u00f6rste",
+    "short_name": "VB St\u00f6rmede-Westenholz-H\u00f6r.",
     "bic": "GENODEM1SGE",
     "primary": true,
     "country_code": "DE",
@@ -16381,8 +16381,8 @@
   },
   {
     "bank_code": "44060122",
-    "name": "Volksbank Dortmund-Nordwest",
-    "short_name": "Volksbank Dortmund-Nordwest",
+    "name": "Volksbank Dortmund-Nordwest -alt-",
+    "short_name": "VB Dortmund-Nordwest -alt-",
     "bic": "GENODEM1DNW",
     "primary": true,
     "country_code": "DE",
@@ -17659,8 +17659,8 @@
   },
   {
     "bank_code": "46451012",
-    "name": "Sparkasse Mitten im Sauerland",
-    "short_name": "Spk Mitten im Sauerland",
+    "name": "Sparkasse Mitten im Sauerland -alt-",
+    "short_name": "Spk Mitten im Sauerl. -alt-",
     "bic": "WELADED1MES",
     "primary": true,
     "country_code": "DE",
@@ -17713,8 +17713,8 @@
   },
   {
     "bank_code": "46650005",
-    "name": "Sparkasse Arnsberg-Sundern -alt-",
-    "short_name": "Spk Arnsberg-Sundern -alt-",
+    "name": "Sparkasse Mitten im Sauerland",
+    "short_name": "Spk Mitten im Sauerland",
     "bic": "WELADED1ARN",
     "primary": true,
     "country_code": "DE",
@@ -18028,8 +18028,8 @@
   },
   {
     "bank_code": "47260307",
-    "name": "Bank f\u00fcr Kirche und Caritas",
-    "short_name": "Bank f\u00fcr Kirche und Caritas",
+    "name": "Bank f\u00fcr Kirche und Caritas -alt-",
+    "short_name": "Bank f.Kirche u.Caritas-alt",
     "bic": "GENODEM1BKC",
     "primary": true,
     "country_code": "DE",
@@ -18055,8 +18055,8 @@
   },
   {
     "bank_code": "47262626",
-    "name": "Volksbank Westenholz",
-    "short_name": "Volksbank Westenholz",
+    "name": "Volksbank Westenholz -alt-",
+    "short_name": "Volksbank Westenholz -alt-",
     "bic": "GENODEM1WDE",
     "primary": true,
     "country_code": "DE",
@@ -19207,8 +19207,8 @@
   },
   {
     "bank_code": "50020700",
-    "name": "Credit Europe Bank Ndl. Deutschland",
-    "short_name": "Credit Europe Bank Ffm",
+    "name": "Nexent Bank Ndl. Deutschland",
+    "short_name": "Nexent Bank Frankfurt",
     "bic": "FBHLDEFFXXX",
     "primary": true,
     "country_code": "DE",
@@ -19891,8 +19891,8 @@
   },
   {
     "bank_code": "50061741",
-    "name": "Raiffeisenbank im Hochtaunus",
-    "short_name": "RB im Hochtaunus Bad Hom",
+    "name": "Raiffeisenbank im Hochtaunus -alt-",
+    "short_name": "RB im Hochtaunus  -alt-",
     "bic": "GENODE51OBU",
     "primary": true,
     "country_code": "DE",
@@ -20764,8 +20764,8 @@
   },
   {
     "bank_code": "50120800",
-    "name": "AION Bank German Branch",
-    "short_name": "AION Bank Frankfurt",
+    "name": "UniCredit German Branch",
+    "short_name": "Unicredit Deutschland",
     "bic": "BMPBDEF2XXX",
     "primary": true,
     "country_code": "DE",
@@ -21732,7 +21732,7 @@
     "bic": "HELADEF1DAS",
     "primary": true,
     "country_code": "DE",
-    "checksum_algo": "06"
+    "checksum_algo": "09"
   },
   {
     "bank_code": "50851952",
@@ -21808,8 +21808,8 @@
   },
   {
     "bank_code": "50862835",
-    "name": "Raiffeisenbank Schaafheim",
-    "short_name": "Raiffeisenbank Schaafheim",
+    "name": "Raiffeisenbank Schaafheim -alt-",
+    "short_name": "Raiffbk Schaafheim -alt-",
     "bic": "GENODE51SHM",
     "primary": true,
     "country_code": "DE",
@@ -21982,15 +21982,6 @@
     "name": "VR Bank Ried-\u00dcberwald, B\u00fcrstadt",
     "short_name": "VR Bank Ried-\u00dcberwald, B\u00fcrs",
     "bic": "GENODE51RBU",
-    "primary": true,
-    "country_code": "DE",
-    "checksum_algo": "32"
-  },
-  {
-    "bank_code": "50961312",
-    "name": "Raiffeisenbank Gro\u00df-Rohrheim",
-    "short_name": "Raiffbk Gro\u00df-Rohrheim",
-    "bic": "GENODE51GRM",
     "primary": true,
     "country_code": "DE",
     "checksum_algo": "32"
@@ -22294,8 +22285,8 @@
   },
   {
     "bank_code": "51191800",
-    "name": "Volksbank Schupbach",
-    "short_name": "Volksbank Schupbach",
+    "name": "Volksbank Schupbach -alt-",
+    "short_name": "Volksbank  -alt-",
     "bic": "GENODE51SBH",
     "primary": true,
     "country_code": "DE",
@@ -22468,15 +22459,6 @@
     "name": "Ikano Bank",
     "short_name": "Ikano Wiesbaden",
     "bic": "PLFGDE5AIKB",
-    "primary": true,
-    "country_code": "DE",
-    "checksum_algo": "09"
-  },
-  {
-    "bank_code": "51230600",
-    "name": "Europe ARAB Bank",
-    "short_name": "Europe ARAB Bank Frankfurt",
-    "bic": "ARABDEFFXXX",
     "primary": true,
     "country_code": "DE",
     "checksum_algo": "09"
@@ -22744,8 +22726,8 @@
   },
   {
     "bank_code": "51752267",
-    "name": "Sparkasse Battenberg",
-    "short_name": "Sparkasse Battenberg",
+    "name": "Sparkasse Battenberg -alt-",
+    "short_name": "Sparkasse Battenberg -alt-",
     "bic": "HELADEF1BAT",
     "primary": true,
     "country_code": "DE",
@@ -22825,8 +22807,8 @@
   },
   {
     "bank_code": "51961801",
-    "name": "Volksbank Feldatal",
-    "short_name": "Volksbank Feldatal",
+    "name": "Volksbank Feldatal -alt-",
+    "short_name": "Volksbank Feldatal -alt-",
     "bic": "GENODE51FEL",
     "primary": true,
     "country_code": "DE",
@@ -22834,8 +22816,8 @@
   },
   {
     "bank_code": "51990000",
-    "name": "Volksbank Lauterbach-Schlitz",
-    "short_name": "Volksbank Lauterbach-Schl",
+    "name": "Volksbank Lauterbach-Schlitz -alt-",
+    "short_name": "VB Lauterbach-Schlitz -alt-",
     "bic": "GENODE51LB1",
     "primary": true,
     "country_code": "DE",
@@ -23464,8 +23446,8 @@
   },
   {
     "bank_code": "53093200",
-    "name": "VR Bank HessenLand",
-    "short_name": "VR Bank HessenLand",
+    "name": "VR VerbundBank",
+    "short_name": "VR VerbundBank",
     "bic": "GENODE51ALS",
     "primary": true,
     "country_code": "DE",
@@ -23572,8 +23554,8 @@
   },
   {
     "bank_code": "53290000",
-    "name": "VR-Bankverein Bad Hersfeld-Rotenburg",
-    "short_name": "VR-Bankverein Bad Hersfeld",
+    "name": "VR-Bankverein Bad Hersfeld-Rotenburg -alt-",
+    "short_name": "VR-Bankv. Bad Hersfeld-alt-",
     "bic": "GENODE51BHE",
     "primary": true,
     "country_code": "DE",
@@ -26704,8 +26686,8 @@
   },
   {
     "bank_code": "60035810",
-    "name": "IBM Deutschland Kreditbank",
-    "short_name": "IBM Kreditbank B\u00f6blingen",
+    "name": "GSCF Working Capital Bank",
+    "short_name": "WCB",
     "bic": "IBKBDES1XXX",
     "primary": true,
     "country_code": "DE",
@@ -26892,6 +26874,15 @@
     "checksum_algo": "01"
   },
   {
+    "bank_code": "60050101",
+    "name": "Berlin Hyp/Landesbank Baden-W\u00fcrttemberg",
+    "short_name": "Berlin Hyp/LBBW",
+    "bic": "SOLADESTHYP",
+    "primary": false,
+    "country_code": "DE",
+    "checksum_algo": "01"
+  },
+  {
     "bank_code": "60060000",
     "name": "DZ BANK",
     "short_name": "DZ BANK",
@@ -26902,8 +26893,8 @@
   },
   {
     "bank_code": "60060202",
-    "name": "DZ PRIVATBANK Ndl. Stuttgart",
-    "short_name": "DZ PRIVATBANK Ndl Stuttgart",
+    "name": "DZ PRIVATBANK",
+    "short_name": "DZ PRIVATBANK",
     "bic": "GENODESTXXX",
     "primary": true,
     "country_code": "DE",
@@ -27046,8 +27037,8 @@
   },
   {
     "bank_code": "60069303",
-    "name": "Raiffeisenbank Bad Schussenried-Aulendorf",
-    "short_name": "Raiffbk Bad Schussenried-Au",
+    "name": "Raiffeisenbank Bad Schussenried-Aulendorf -alt-",
+    "short_name": "RB Bad Schussenried.-alt-",
     "bic": "GENODES1RBS",
     "primary": true,
     "country_code": "DE",
@@ -28000,8 +27991,8 @@
   },
   {
     "bank_code": "60391420",
-    "name": "VR-Bank Magstadt-Weissach",
-    "short_name": "VR-Bank Magstadt-Weissach",
+    "name": "VR-Bank Magstadt-Weissach -alt-",
+    "short_name": "VR-Bank Magstadt-Weis.-alt-",
     "bic": "GENODES1MAG",
     "primary": true,
     "country_code": "DE",
@@ -29575,8 +29566,8 @@
   },
   {
     "bank_code": "64163225",
-    "name": "Volksbank Hohenzollern-Balingen",
-    "short_name": "VB Hohenzollern-Balingen",
+    "name": "Volksbank Hohenzollern-Balingen -alt-",
+    "short_name": "VB Hohenz.-Balingen -alt-",
     "bic": "GENODES1VHZ",
     "primary": true,
     "country_code": "DE",
@@ -29674,8 +29665,8 @@
   },
   {
     "bank_code": "64261853",
-    "name": "Volksbank Nordschwarzwald",
-    "short_name": "Volksbank Nordschwarzwald",
+    "name": "Volksbank Nordschwarzwald -alt-",
+    "short_name": "VB Nordschwarzwald -alt-",
     "bic": "GENODES1PGW",
     "primary": true,
     "country_code": "DE",
@@ -29701,8 +29692,8 @@
   },
   {
     "bank_code": "64291010",
-    "name": "Volksbank im Kreis Freudenstadt",
-    "short_name": "VB im Kreis Freudenstadt",
+    "name": "Volksbank Nordschwarzwald",
+    "short_name": "VB Nordschwarzwald",
     "bic": "GENODES1FDS",
     "primary": true,
     "country_code": "DE",
@@ -30124,8 +30115,8 @@
   },
   {
     "bank_code": "65361898",
-    "name": "VR Bank Heuberg-Winterlingen",
-    "short_name": "VR Bk Heuberg-Winterlingen",
+    "name": "VR Bank Heuberg-Winterlingen -alt-",
+    "short_name": "VR Bk Heub.-Winterli. -alt-",
     "bic": "GENODES1WLB",
     "primary": true,
     "country_code": "DE",
@@ -30214,8 +30205,8 @@
   },
   {
     "bank_code": "65390120",
-    "name": "Volksbank Albstadt",
-    "short_name": "Volksbank Albstadt",
+    "name": "Volksbank Zollernalb",
+    "short_name": "Volksbank Zollernalb",
     "bic": "GENODES1EBI",
     "primary": true,
     "country_code": "DE",
@@ -31537,8 +31528,8 @@
   },
   {
     "bank_code": "67290000",
-    "name": "Heidelberger Volksbank",
-    "short_name": "Heidelberger Volksbank",
+    "name": "Heidelberger Volksbank -alt-",
+    "short_name": "Heidelberger Volksbank-alt-",
     "bic": "GENODE61HD1",
     "primary": true,
     "country_code": "DE",
@@ -31555,8 +31546,8 @@
   },
   {
     "bank_code": "67291700",
-    "name": "Volksbank Neckartal",
-    "short_name": "Volksbank Neckartal",
+    "name": "Volksbank Heidelberg-Neckartal",
+    "short_name": "VB Heidelberg-Neckartal",
     "bic": "GENODE61NGD",
     "primary": true,
     "country_code": "DE",
@@ -32679,15 +32670,6 @@
     "checksum_algo": "09"
   },
   {
-    "bank_code": "70010588",
-    "name": "Deutsche Pfandbriefbank (Gf: Scalable Capital)",
-    "short_name": "Deutsche Pfandbriefbank",
-    "bic": "SCABDEMMXXX",
-    "primary": true,
-    "country_code": "DE",
-    "checksum_algo": "09"
-  },
-  {
     "bank_code": "70010800",
     "name": "Middle East Bank, Munich Branch",
     "short_name": "Middle East Bank, M\u00fcnchen",
@@ -32758,15 +32740,6 @@
     "primary": true,
     "country_code": "DE",
     "checksum_algo": "17"
-  },
-  {
-    "bank_code": "70012400",
-    "name": "Bankhaus Obotritia",
-    "short_name": "Bankhaus Obotritia M\u00fcnchen",
-    "bic": "FLGMDE77XXX",
-    "primary": true,
-    "country_code": "DE",
-    "checksum_algo": "09"
   },
   {
     "bank_code": "70012600",
@@ -33066,6 +33039,15 @@
     "checksum_algo": "99"
   },
   {
+    "bank_code": "70022424",
+    "name": "Scalable Capital Bank",
+    "short_name": "Scalable Capital Bank",
+    "bic": "SCABDEMMXXX",
+    "primary": true,
+    "country_code": "DE",
+    "checksum_algo": "09"
+  },
+  {
     "bank_code": "70025175",
     "name": "UniCredit Bank - HypoVereinsbank",
     "short_name": "UniCredit Bank-HypoVereinbk",
@@ -33082,15 +33064,6 @@
     "primary": false,
     "country_code": "DE",
     "checksum_algo": "99"
-  },
-  {
-    "bank_code": "70030014",
-    "name": "F\u00fcrst Fugger Privatbank",
-    "short_name": "Fuggerbank Augsburg",
-    "bic": "FUBKDE71MUC",
-    "primary": true,
-    "country_code": "DE",
-    "checksum_algo": "00"
   },
   {
     "bank_code": "70030300",
@@ -33796,8 +33769,8 @@
   },
   {
     "bank_code": "70093200",
-    "name": "Volksbank Raiffeisenbank Starnberg-Herrsching-Landsberg",
-    "short_name": "VR-Bank Starnberg-Hg-Lbg",
+    "name": "VR Bank Starnberg-Zugspitze",
+    "short_name": "VR Bank Starnberg-Zugspitze",
     "bic": "GENODEF1STH",
     "primary": true,
     "country_code": "DE",
@@ -34516,8 +34489,8 @@
   },
   {
     "bank_code": "70390000",
-    "name": "VR-Bank Werdenfels",
-    "short_name": "VR-Bank Werdenfels",
+    "name": "VR-Bank Werdenfels -alt-",
+    "short_name": "VR-Bank Werdenfels -alt-",
     "bic": "GENODEF1GAP",
     "primary": true,
     "country_code": "DE",
@@ -34894,7 +34867,7 @@
   },
   {
     "bank_code": "72012300",
-    "name": "Bank f\u00fcr Tirol und Vorarlberg Deutschland",
+    "name": "BTV Vier L\u00e4nder Bank, Zweigniederlassung Deutschland",
     "short_name": "BTV Zndl Deutschland",
     "bic": "BTVADE61XXX",
     "primary": true,
@@ -35083,8 +35056,8 @@
   },
   {
     "bank_code": "72069005",
-    "name": "Raiffeisenbank",
-    "short_name": "Raiffeisenbank Aindling",
+    "name": "Raiffeisenbank Lech-Donau",
+    "short_name": "RB Lech-Donau",
     "bic": "GENODEF1AIL",
     "primary": true,
     "country_code": "DE",
@@ -35263,8 +35236,8 @@
   },
   {
     "bank_code": "72069308",
-    "name": "Raiffeisen-Volksbank Wemding",
-    "short_name": "RVB Wemding",
+    "name": "Raiffeisen-Volksbank Wemding -alt-",
+    "short_name": "RVB Wemding -alt-",
     "bic": "GENODEF1WDN",
     "primary": true,
     "country_code": "DE",
@@ -35552,7 +35525,7 @@
   {
     "bank_code": "72151880",
     "name": "Stadtsparkasse Schrobenhausen -alt-",
-    "short_name": "Stadtspk Schrobenhausen",
+    "short_name": "Stadtspk Schrobenhausen-alt",
     "bic": "BYLADEM1SSH",
     "primary": true,
     "country_code": "DE",
@@ -35623,8 +35596,8 @@
   },
   {
     "bank_code": "72169745",
-    "name": "Raiffeisenbank Ehekirchen-Oberhausen",
-    "short_name": "Raiffbk Ehekirchen-Oberhsn",
+    "name": "Raiffeisenbank Ehekirchen-Oberhausen -alt-",
+    "short_name": "Raiffbk Ehekirchen-Ob.-alt-",
     "bic": "GENODEF1WDF",
     "primary": true,
     "country_code": "DE",
@@ -37756,8 +37729,8 @@
   },
   {
     "bank_code": "76069559",
-    "name": "VR Bank Metropolregion N\u00fcrnberg",
-    "short_name": "VR Bank Metropolregion Nbg",
+    "name": "VR TeilhaberBank Metropolregion N\u00fcrnberg",
+    "short_name": "VR THB Metropolregion Nbg",
     "bic": "GENODEF1NEA",
     "primary": true,
     "country_code": "DE",
@@ -38467,8 +38440,8 @@
   },
   {
     "bank_code": "76551540",
-    "name": "Vereinigte Sparkassen Gunzenhausen",
-    "short_name": "Ver Spk Gunzenhausen",
+    "name": "Vereinigte Sparkassen Gunzenhausen -alt-",
+    "short_name": "Ver Spk Gunzenhausen -alt-",
     "bic": "BYLADEM1GUN",
     "primary": true,
     "country_code": "DE",
@@ -38548,8 +38521,8 @@
   },
   {
     "bank_code": "77061004",
-    "name": "Raiffeisenbank Obermain Nord",
-    "short_name": "Raiffbk Obermain Nord",
+    "name": "Raiffeisenbank Obermain Nord -alt-",
+    "short_name": "Raiffbk Obermain Nord -alt-",
     "bic": "GENODEF1ALK",
     "primary": true,
     "country_code": "DE",
@@ -38575,8 +38548,8 @@
   },
   {
     "bank_code": "77062139",
-    "name": "Raiffeisen-Volksbank Bad Staffelstein",
-    "short_name": "Raiff-VB Bad Staffelstein",
+    "name": "Volksbank Raiffeisenbank Obermain",
+    "short_name": "VR Obermain",
     "bic": "GENODEF1SFF",
     "primary": true,
     "country_code": "DE",
@@ -38629,8 +38602,8 @@
   },
   {
     "bank_code": "77069739",
-    "name": "Raiffeisenbank Thurnauer Land",
-    "short_name": "Raiffbk Thurnauer Land",
+    "name": "Raiffeisenbank Thurnauer Land -alt-",
+    "short_name": "Raiffbk Thurnauer Land alt-",
     "bic": "GENODEF1THA",
     "primary": true,
     "country_code": "DE",
@@ -38773,8 +38746,8 @@
   },
   {
     "bank_code": "77322200",
-    "name": "Fondsdepot Bank",
-    "short_name": "Fondsdepot Bank",
+    "name": "FNZ Bank",
+    "short_name": "FNZ Bank",
     "bic": "FODBDE77XXX",
     "primary": true,
     "country_code": "DE",
@@ -41575,6 +41548,15 @@
     "name": "SozialBank",
     "short_name": "SozialBank Leipzig",
     "bic": "BFSWDE33LPZ",
+    "primary": true,
+    "country_code": "DE",
+    "checksum_algo": "09"
+  },
+  {
+    "bank_code": "86021000",
+    "name": "aifinyo payments",
+    "short_name": "aifinyo payments, Dresden",
+    "bic": "AIPGDE82XXX",
     "primary": true,
     "country_code": "DE",
     "checksum_algo": "09"

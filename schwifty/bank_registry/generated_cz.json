@@ -106,14 +106,6 @@
   {
     "country_code": "CZ",
     "primary": true,
-    "bic": "",
-    "bank_code": "2275",
-    "name": "Podnikatelsk\u00e1 dru\u017estevn\u00ed z\u00e1lo\u017ena",
-    "short_name": "Podnikatelsk\u00e1 dru\u017estevn\u00ed z\u00e1lo\u017ena"
-  },
-  {
-    "country_code": "CZ",
-    "primary": true,
     "bic": "CITICZPX",
     "bank_code": "2600",
     "name": "Citibank Europe plc, organiza\u010dn\u00ed slo\u017eka",
@@ -150,14 +142,6 @@
     "bank_code": "3500",
     "name": "ING Bank N.V.",
     "short_name": "ING Bank N.V."
-  },
-  {
-    "country_code": "CZ",
-    "primary": true,
-    "bic": "EXPNCZPP",
-    "bank_code": "4000",
-    "name": "dob\u011bh plateb ve prosp\u011bch Banky CREDITAS a.s.",
-    "short_name": "dob\u011bh plateb ve prosp\u011bch Banky CREDITAS a.s."
   },
   {
     "country_code": "CZ",
@@ -370,17 +354,25 @@
   {
     "country_code": "CZ",
     "primary": true,
-    "bic": "BEFKCZP1",
-    "bank_code": "8280",
-    "name": "B-Efekt a.s.",
-    "short_name": "B-Efekt a.s."
+    "bic": "",
+    "bank_code": "8500",
+    "name": "Multitude Bank p.l.c.",
+    "short_name": "Multitude Bank p.l.c."
   },
   {
     "country_code": "CZ",
     "primary": true,
     "bic": "",
-    "bank_code": "8500",
-    "name": "Multitude Bank p.l.c.",
-    "short_name": "Multitude Bank p.l.c."
+    "bank_code": "8610",
+    "name": "Devizov\u00e1 burza a.s.",
+    "short_name": "Devizov\u00e1 burza a.s."
+  },
+  {
+    "country_code": "CZ",
+    "primary": true,
+    "bic": "",
+    "bank_code": "8660",
+    "name": "PAYMONT, UAB",
+    "short_name": "PAYMONT, UAB"
   }
 ]

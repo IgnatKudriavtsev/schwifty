@@ -722,6 +722,38 @@
   {
     "name": "UBS Switzerland AG - Z\u00fcrich",
     "short_name": "UBS Switzerland AG",
+    "bank_code": "00303",
+    "bic": "UBSWCHZHW03",
+    "country_code": "CH",
+    "primary": false
+  },
+  {
+    "name": "UBS Switzerland AG - Z\u00fcrich",
+    "short_name": "UBS Switzerland AG",
+    "bank_code": "00304",
+    "bic": "UBSWCHZHW04",
+    "country_code": "CH",
+    "primary": false
+  },
+  {
+    "name": "UBS Switzerland AG - Z\u00fcrich",
+    "short_name": "UBS Switzerland AG",
+    "bank_code": "00305",
+    "bic": "UBSWCHZHW05",
+    "country_code": "CH",
+    "primary": false
+  },
+  {
+    "name": "UBS Switzerland AG - Z\u00fcrich",
+    "short_name": "UBS Switzerland AG",
+    "bank_code": "00306",
+    "bic": "UBSWCHZHW06",
+    "country_code": "CH",
+    "primary": false
+  },
+  {
+    "name": "UBS Switzerland AG - Z\u00fcrich",
+    "short_name": "UBS Switzerland AG",
     "bank_code": "00308",
     "bic": "UBSWCHZHW08",
     "country_code": "CH",
@@ -1760,8 +1792,8 @@
     "primary": true
   },
   {
-    "name": "Kaleido Privatbank AG",
-    "short_name": "Kaleido Privatbank AG",
+    "name": "Banque Richelieu (Schweiz) AG",
+    "short_name": "Banque Richelieu (Schweiz) AG",
     "bank_code": "08245",
     "bic": "ANPRCH22XXX",
     "country_code": "CH",
@@ -2360,18 +2392,10 @@
     "primary": true
   },
   {
-    "name": "Bank f\u00fcr Tirol und Vorarlberg Aktiengesellschaft, Innsbruck",
-    "short_name": "Bank f\u00fcr Tirol und Vorarlberg Aktiengesellschaft, Innsbruck",
+    "name": "BTV Vier L\u00e4nder Bank AG Innsbruck, Zweigniederlassung Staad",
+    "short_name": "BTV Vier L\u00e4nder Bank AG Innsbruck, Zweigniederlassung Staad",
     "bank_code": "08525",
     "bic": "BTVACH22XXX",
-    "country_code": "CH",
-    "primary": true
-  },
-  {
-    "name": "PB IHAG AG",
-    "short_name": "PB IHAG AG",
-    "bank_code": "08528",
-    "bic": "IHZUCHZZXXX",
     "country_code": "CH",
     "primary": true
   },
@@ -2776,8 +2800,8 @@
     "primary": true
   },
   {
-    "name": "Banque Thaler SA",
-    "short_name": "Banque Thaler SA",
+    "name": "CA Indosuez (Switzerland) SA (ex Banque Thaler SA)",
+    "short_name": "CA Indosuez (Switzerland) SA (ex Banque Thaler SA)",
     "bank_code": "08737",
     "bic": "THALCHGGXXX",
     "country_code": "CH",
@@ -2984,14 +3008,6 @@
     "primary": true
   },
   {
-    "name": "BNP PARIBAS, Paris, succursale de Zurich",
-    "short_name": "BNP PARIBAS, Paris, succursale de Zurich",
-    "bank_code": "08792",
-    "bic": "PARBCHZZXXX",
-    "country_code": "CH",
-    "primary": true
-  },
-  {
     "name": "IBKR Financial Services AG",
     "short_name": "IBKR Financial Services AG",
     "bank_code": "08797",
@@ -3131,7 +3147,7 @@
     "name": "compenswiss (Fonds de compensation AVS/AI/APG)",
     "short_name": "compenswiss (Fonds de compensation AVS/AI/APG)",
     "bank_code": "08850",
-    "bic": "FAVSCHGGXXX",
+    "bic": "FAVSCHGAXXX",
     "country_code": "CH",
     "primary": true
   },
@@ -3856,18 +3872,10 @@
     "primary": false
   },
   {
-    "name": "Bank f\u00fcr Tirol und Vorarlberg Aktiengesellschaft, Innsbruck",
-    "short_name": "Bank f\u00fcr Tirol und Vorarlberg Aktiengesellschaft, Innsbruck",
+    "name": "BTV Vier L\u00e4nder Bank AG Innsbruck, Zweigniederlassung Staad",
+    "short_name": "BTV Vier L\u00e4nder Bank AG Innsbruck, Zweigniederlassung Staad",
     "bank_code": "30147",
     "bic": "BTVACH22XXX",
-    "country_code": "CH",
-    "primary": false
-  },
-  {
-    "name": "PB IHAG AG",
-    "short_name": "PB IHAG AG",
-    "bank_code": "30148",
-    "bic": "IHZUCHZZXXX",
     "country_code": "CH",
     "primary": false
   },
@@ -4048,8 +4056,8 @@
     "primary": false
   },
   {
-    "name": "Kaleido Privatbank AG",
-    "short_name": "Kaleido Privatbank AG",
+    "name": "Banque Richelieu (Schweiz) AG",
+    "short_name": "Banque Richelieu (Schweiz) AG",
     "bank_code": "30186",
     "bic": "ANPRCH22XXX",
     "country_code": "CH",
@@ -4424,8 +4432,8 @@
     "primary": false
   },
   {
-    "name": "UNION BANCAIRE PRIVEE, UBP SA",
-    "short_name": "UNION BANCAIRE PRIVEE, UBP SA",
+    "name": "Union Bancaire Priv\u00e9e, UBP SA",
+    "short_name": "Union Bancaire Priv\u00e9e, UBP SA",
     "bank_code": "30248",
     "bic": "UBPGCHGGXXX",
     "country_code": "CH",
@@ -8456,8 +8464,8 @@
     "primary": true
   },
   {
-    "name": "Swisscanto Fondsleitung AG",
-    "short_name": "Swisscanto Fondsleitung AG",
+    "name": "Swisscanto Fondsleitung AG, handelnd f\u00fcr SUVA EAF",
+    "short_name": "Swisscanto Fondsleitung AG, handelnd f\u00fcr SUVA EAF",
     "bank_code": "83031",
     "bic": "SWIPCHZHXXX",
     "country_code": "CH",
@@ -8584,6 +8592,30 @@
     "primary": true
   },
   {
+    "name": "Helvetia Schweizerische Vers.- Ges. AG (EL, geb. Verm\u00f6gen)",
+    "short_name": "Helvetia Schweizerische Vers.- Ges. AG (EL, geb. Verm\u00f6gen)",
+    "bank_code": "83054",
+    "bic": "HELNCH22XXX",
+    "country_code": "CH",
+    "primary": true
+  },
+  {
+    "name": "Helvetia Schweizerische Vers.- Ges. AG (KL, geb. Verm\u00f6gen)",
+    "short_name": "Helvetia Schweizerische Vers.- Ges. AG (KL, geb. Verm\u00f6gen)",
+    "bank_code": "83055",
+    "bic": "HELNCH22XXX",
+    "country_code": "CH",
+    "primary": true
+  },
+  {
+    "name": "Helveticor AG",
+    "short_name": "Helveticor AG",
+    "bank_code": "83056",
+    "bic": null,
+    "country_code": "CH",
+    "primary": true
+  },
+  {
     "name": "Union Securities Switzerland SA",
     "short_name": "Union Securities Switzerland SA",
     "bank_code": "83057",
@@ -8592,8 +8624,8 @@
     "primary": true
   },
   {
-    "name": "Swiss Life Asset Management AG",
-    "short_name": "Swiss Life Asset Management AG",
+    "name": "Swiss Life Asset Management AG, handelnd f\u00fcr SLF (CH) MM CHF",
+    "short_name": "Swiss Life Asset Management AG, handelnd f\u00fcr SLF (CH) MM CHF",
     "bank_code": "83058",
     "bic": "SLAMCHZZFMM",
     "country_code": "CH",

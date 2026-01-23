@@ -914,10 +914,10 @@
   {
     "country_code": "AT",
     "primary": true,
-    "bic": "PIAGAT2SXXX",
+    "bic": "COPRATWWXXX",
     "bank_code": "19510",
-    "name": "LLB Bank AG",
-    "short_name": "LLB Bank AG"
+    "name": "Liechtensteinische Landesbank (\u00d6sterreich) AG",
+    "short_name": "Liechtensteinische Landesbank (\u00d6sterreich) AG"
   },
   {
     "country_code": "AT",
@@ -1018,14 +1018,6 @@
   {
     "country_code": "AT",
     "primary": true,
-    "bic": "FAZFAT21XXX",
-    "bank_code": "19835",
-    "name": "Ford Bank GmbH, Zweigniederlassung \u00d6sterreich",
-    "short_name": "Ford Bank GmbH, Zweigniederlassung \u00d6sterreich"
-  },
-  {
-    "country_code": "AT",
-    "primary": true,
     "bic": "WUIBATWWXXX",
     "bank_code": "19880",
     "name": "Western Union International Bank GmbH",
@@ -1116,8 +1108,8 @@
     "primary": true,
     "bic": "SPHAAT21XXX",
     "bank_code": "20218",
-    "name": "Sparkasse Haugsdorf",
-    "short_name": "Sparkasse Haugsdorf"
+    "name": "Sparkasse Haugsdorf AG",
+    "short_name": "Sparkasse Haugsdorf AG"
   },
   {
     "country_code": "AT",
@@ -1316,8 +1308,8 @@
     "primary": true,
     "bic": "SBGSAT2SXXX",
     "bank_code": "20404",
-    "name": "Salzburger Sparkasse Bank Aktiengesellschaft",
-    "short_name": "Salzburger Sparkasse Bank Aktiengesellschaft"
+    "name": "Erste Bank der oesterreichischen Sparkassen AG",
+    "short_name": "Erste Bank der oesterreichischen Sparkassen AG"
   },
   {
     "country_code": "AT",
@@ -1722,10 +1714,10 @@
   {
     "country_code": "AT",
     "primary": true,
-    "bic": "RLNWATWW367",
+    "bic": "RLNWATW1880",
     "bank_code": "32367",
-    "name": "Raiffeisenbank Klosterneuburg eGen",
-    "short_name": "Raiffeisenbank Klosterneuburg eGen"
+    "name": "Raiffeisenbank Tulln-Klosterneuburg eGen",
+    "short_name": "Raiffeisenbank Tulln-Klosterneuburg eGen"
   },
   {
     "country_code": "AT",
@@ -1828,8 +1820,8 @@
     "primary": true,
     "bic": "RLNWATW1880",
     "bank_code": "32497",
-    "name": "Raiffeisenbank Tulln eGen",
-    "short_name": "Raiffeisenbank Tulln eGen"
+    "name": "Raiffeisenbank Tulln-Klosterneuburg eGen",
+    "short_name": "Raiffeisenbank Tulln-Klosterneuburg eGen"
   },
   {
     "country_code": "AT",
@@ -2020,8 +2012,8 @@
     "primary": true,
     "bic": "RLNWATW1880",
     "bank_code": "32880",
-    "name": "Raiffeisenbank Tulln eGen",
-    "short_name": "Raiffeisenbank Tulln eGen"
+    "name": "Raiffeisenbank Tulln-Klosterneuburg eGen",
+    "short_name": "Raiffeisenbank Tulln-Klosterneuburg eGen"
   },
   {
     "country_code": "AT",
@@ -2316,8 +2308,8 @@
     "primary": true,
     "bic": "RLBBAT2E072",
     "bank_code": "33072",
-    "name": "Raiffeisenbank Region Parndorf eGen",
-    "short_name": "Raiffeisenbank Region Parndorf eGen"
+    "name": "Raiffeisenbank Region Parndorf - Weiden am See eGen",
+    "short_name": "Raiffeisenbank Region Parndorf - Weiden am See eGen"
   },
   {
     "country_code": "AT",
@@ -2370,10 +2362,10 @@
   {
     "country_code": "AT",
     "primary": true,
-    "bic": "RLBBAT2E106",
+    "bic": "RLBBAT2E072",
     "bank_code": "33106",
-    "name": "Raiffeisenbank Weiden am See eGen",
-    "short_name": "Raiffeisenbank Weiden am See eGen"
+    "name": "Raiffeisenbank Region Parndorf - Weiden am See eGen",
+    "short_name": "Raiffeisenbank Region Parndorf - Weiden am See eGen"
   },
   {
     "country_code": "AT",
@@ -2746,10 +2738,10 @@
   {
     "country_code": "AT",
     "primary": true,
-    "bic": "RZOOAT2L313",
+    "bic": "RZOOAT2L736",
     "bank_code": "34313",
-    "name": "Raiffeisenbank Meggenhofen-Kematen eGen",
-    "short_name": "Raiffeisenbank Meggenhofen-Kematen eGen"
+    "name": "Raiffeisenbank Region Grieskirchen eGen",
+    "short_name": "Raiffeisenbank Region Grieskirchen eGen"
   },
   {
     "country_code": "AT",
@@ -2786,10 +2778,10 @@
   {
     "country_code": "AT",
     "primary": true,
-    "bic": "RZOOAT2L356",
+    "bic": "RZOOAT2L523",
     "bank_code": "34356",
-    "name": "Raiffeisenbank Neukirchen an der V\u00f6ckla eGen",
-    "short_name": "Raiffeisenbank Neukirchen an der V\u00f6ckla eGen"
+    "name": "Raiffeisenbank Attergau eGen",
+    "short_name": "Raiffeisenbank Attergau eGen"
   },
   {
     "country_code": "AT",
@@ -4452,8 +4444,8 @@
     "primary": true,
     "bic": "RZTIAT22268",
     "bank_code": "36268",
-    "name": "Raiffeisenbank L\u00e4ngenfeld eGen",
-    "short_name": "Raiffeisenbank L\u00e4ngenfeld eGen"
+    "name": "Raiffeisenbank im \u00d6tztal und Umgebung eGen",
+    "short_name": "Raiffeisenbank im \u00d6tztal und Umgebung eGen"
   },
   {
     "country_code": "AT",
@@ -4538,10 +4530,10 @@
   {
     "country_code": "AT",
     "primary": true,
-    "bic": "RZTIAT22291",
+    "bic": "RZTIAT22268",
     "bank_code": "36291",
-    "name": "Raiffeisenbank Vorderes \u00d6tztal eGen",
-    "short_name": "Raiffeisenbank Vorderes \u00d6tztal eGen"
+    "name": "Raiffeisenbank im \u00d6tztal und Umgebung eGen",
+    "short_name": "Raiffeisenbank im \u00d6tztal und Umgebung eGen"
   },
   {
     "country_code": "AT",
@@ -4594,10 +4586,10 @@
   {
     "country_code": "AT",
     "primary": true,
-    "bic": "RZTIAT22316",
+    "bic": "RZTIAT22268",
     "bank_code": "36316",
-    "name": "Raiffeisenbank Silz-Haiming und Umgebung eGen",
-    "short_name": "Raiffeisenbank Silz-Haiming und Umgebung eGen"
+    "name": "Raiffeisenbank im \u00d6tztal und Umgebung eGen",
+    "short_name": "Raiffeisenbank im \u00d6tztal und Umgebung eGen"
   },
   {
     "country_code": "AT",
@@ -5106,18 +5098,18 @@
   {
     "country_code": "AT",
     "primary": true,
-    "bic": "RZSTAT2G043",
+    "bic": "RZSTAT2G487",
     "bank_code": "38043",
-    "name": "Raiffeisenbank Schilcherland eGen",
-    "short_name": "Raiffeisenbank Schilcherland eGen"
+    "name": "Raiffeisenbank Weststeiermark eGen",
+    "short_name": "Raiffeisenbank Weststeiermark eGen"
   },
   {
     "country_code": "AT",
     "primary": true,
     "bic": "RZSTAT2G487",
     "bank_code": "38053",
-    "name": "Raiffeisenbank Lipizzanerheimat eGen",
-    "short_name": "Raiffeisenbank Lipizzanerheimat eGen"
+    "name": "Raiffeisenbank Weststeiermark eGen",
+    "short_name": "Raiffeisenbank Weststeiermark eGen"
   },
   {
     "country_code": "AT",
@@ -5372,8 +5364,8 @@
     "primary": true,
     "bic": "RZSTAT2G487",
     "bank_code": "38211",
-    "name": "Raiffeisenbank Lipizzanerheimat eGen",
-    "short_name": "Raiffeisenbank Lipizzanerheimat eGen"
+    "name": "Raiffeisenbank Weststeiermark eGen",
+    "short_name": "Raiffeisenbank Weststeiermark eGen"
   },
   {
     "country_code": "AT",
@@ -5404,8 +5396,8 @@
     "primary": true,
     "bic": "RZSTAT2G487",
     "bank_code": "38235",
-    "name": "Raiffeisenbank Lipizzanerheimat eGen",
-    "short_name": "Raiffeisenbank Lipizzanerheimat eGen"
+    "name": "Raiffeisenbank Weststeiermark eGen",
+    "short_name": "Raiffeisenbank Weststeiermark eGen"
   },
   {
     "country_code": "AT",
@@ -5602,10 +5594,10 @@
   {
     "country_code": "AT",
     "primary": true,
-    "bic": "RZSTAT2G043",
+    "bic": "RZSTAT2G487",
     "bank_code": "38375",
-    "name": "Raiffeisenbank Schilcherland eGen",
-    "short_name": "Raiffeisenbank Schilcherland eGen"
+    "name": "Raiffeisenbank Weststeiermark eGen",
+    "short_name": "Raiffeisenbank Weststeiermark eGen"
   },
   {
     "country_code": "AT",
@@ -5724,8 +5716,8 @@
     "primary": true,
     "bic": "RZSTAT2G487",
     "bank_code": "38487",
-    "name": "Raiffeisenbank Lipizzanerheimat eGen",
-    "short_name": "Raiffeisenbank Lipizzanerheimat eGen"
+    "name": "Raiffeisenbank Weststeiermark eGen",
+    "short_name": "Raiffeisenbank Weststeiermark eGen"
   },
   {
     "country_code": "AT",
@@ -5756,8 +5748,8 @@
     "primary": true,
     "bic": "RZKTAT2KXXX",
     "bank_code": "39000",
-    "name": "Raiffeisenlandesbank K\u00e4rnten - Rechenzentrum und Revisionsverband, registrierte Genossenschaft mit beschr\u00e4nkter Haftung",
-    "short_name": "Raiffeisenlandesbank K\u00e4rnten - Rechenzentrum und Revisionsverband, registrierte Genossenschaft mit beschr\u00e4nkter Haftung"
+    "name": "Raiffeisen Landesbank K\u00e4rnten und Revisionsverband eGen",
+    "short_name": "Raiffeisen Landesbank K\u00e4rnten und Revisionsverband eGen"
   },
   {
     "country_code": "AT",
@@ -5858,18 +5850,18 @@
   {
     "country_code": "AT",
     "primary": true,
-    "bic": "RZKTAT2K271",
+    "bic": "RZKTAT2K546",
     "bank_code": "39271",
-    "name": "Raiffeisenbank Br\u00fcckl-Eberstein-Klein St. Paul-Waisenberg, registrierte Genossenschaft mit beschr\u00e4nkter Haftung",
-    "short_name": "Raiffeisenbank Br\u00fcckl-Eberstein-Klein St. Paul-Waisenberg, registrierte Genossenschaft mit beschr\u00e4nkter Haftung"
+    "name": "Raiffeisenbank V\u00f6lkermarkt-Bleiburg-Br\u00fcckl eGen",
+    "short_name": "Raiffeisenbank V\u00f6lkermarkt-Bleiburg-Br\u00fcckl eGen"
   },
   {
     "country_code": "AT",
     "primary": true,
     "bic": "RZKTAT2K546",
     "bank_code": "39272",
-    "name": "Raiffeisenbank V\u00f6lkermarkt-Bleiburg eGen",
-    "short_name": "Raiffeisenbank V\u00f6lkermarkt-Bleiburg eGen"
+    "name": "Raiffeisenbank V\u00f6lkermarkt-Bleiburg-Br\u00fcckl eGen",
+    "short_name": "Raiffeisenbank V\u00f6lkermarkt-Bleiburg-Br\u00fcckl eGen"
   },
   {
     "country_code": "AT",
@@ -5932,8 +5924,8 @@
     "primary": true,
     "bic": "RZKTAT2KXXX",
     "bank_code": "39358",
-    "name": "Raiffeisenlandesbank K\u00e4rnten - Rechenzentrum und Revisionsverband, registrierte Genossenschaft mit beschr\u00e4nkter Haftung",
-    "short_name": "Raiffeisenlandesbank K\u00e4rnten - Rechenzentrum und Revisionsverband, registrierte Genossenschaft mit beschr\u00e4nkter Haftung"
+    "name": "Raiffeisen Landesbank K\u00e4rnten und Revisionsverband eGen",
+    "short_name": "Raiffeisen Landesbank K\u00e4rnten und Revisionsverband eGen"
   },
   {
     "country_code": "AT",
@@ -6180,8 +6172,8 @@
     "primary": true,
     "bic": "RZKTAT2K546",
     "bank_code": "39546",
-    "name": "Raiffeisenbank V\u00f6lkermarkt-Bleiburg eGen",
-    "short_name": "Raiffeisenbank V\u00f6lkermarkt-Bleiburg eGen"
+    "name": "Raiffeisenbank V\u00f6lkermarkt-Bleiburg-Br\u00fcckl eGen",
+    "short_name": "Raiffeisenbank V\u00f6lkermarkt-Bleiburg-Br\u00fcckl eGen"
   },
   {
     "country_code": "AT",

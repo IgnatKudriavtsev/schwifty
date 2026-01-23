@@ -124,8 +124,8 @@
     "primary": true,
     "bic": "GNBAHUHB",
     "bank_code": "121",
-    "name": "Gr\u00e1nit Bank Zrt.",
-    "short_name": "Gr\u00e1nit Bank Zrt."
+    "name": "Gr\u00e1nit Bank Nyrt.",
+    "short_name": "Gr\u00e1nit Bank Nyrt."
   },
   {
     "country_code": "HU",
@@ -236,8 +236,8 @@
     "primary": true,
     "bic": "MCBHHUHB",
     "bank_code": "167",
-    "name": "Magyar Cetelem Bank Zrt.",
-    "short_name": "Magyar Cetelem Bank Zrt."
+    "name": "Magyar Cofidis Bank Zrt.",
+    "short_name": "Magyar Cofidis Bank Zrt."
   },
   {
     "country_code": "HU",
@@ -356,8 +356,8 @@
     "primary": true,
     "bic": "OTPVHUHB",
     "bank_code": "200",
-    "name": "OTP P\u00e9nzt\u00e1rszolg\u00e1ltat\u00f3 Zrt.",
-    "short_name": "OTP P\u00e9nzt\u00e1rszolg\u00e1ltat\u00f3 Zrt."
+    "name": "OTP SZ\u00c9P k\u00e1rtya",
+    "short_name": "OTP SZ\u00c9P k\u00e1rtya"
   },
   {
     "country_code": "HU",
@@ -366,14 +366,6 @@
     "bank_code": "222",
     "name": "O.F.SZ. Zrt",
     "short_name": "O.F.SZ. Zrt"
-  },
-  {
-    "country_code": "HU",
-    "primary": true,
-    "bic": "BRELROBU",
-    "bank_code": "296",
-    "name": "Libra Internet Bank S.A.",
-    "short_name": "Libra Internet Bank S.A."
   },
   {
     "country_code": "HU",
@@ -396,8 +388,16 @@
     "primary": true,
     "bic": "THZTHUHH",
     "bank_code": "299",
-    "name": "Trive Bank Hungary Zrt",
-    "short_name": "Trive Bank Hungary Zrt"
+    "name": "Trive Bank Europe Zrt.",
+    "short_name": "Trive Bank Europe Zrt."
+  },
+  {
+    "country_code": "HU",
+    "primary": true,
+    "bic": "REVOHUHB",
+    "bank_code": "302",
+    "name": "REVOLUT BANK UAB Magyarorsz\u00e1gi Fi\u00f3ktelep",
+    "short_name": "REVOLUT BANK UAB Magyarorsz\u00e1gi Fi\u00f3ktelep"
   },
   {
     "country_code": "HU",
@@ -414,6 +414,30 @@
     "bank_code": "305",
     "name": "DiPocket UAB",
     "short_name": "DiPocket UAB"
+  },
+  {
+    "country_code": "HU",
+    "primary": true,
+    "bic": "CITFCZPP",
+    "bank_code": "307",
+    "name": "Citfin, sporitelni druzstvo",
+    "short_name": "Citfin, sporitelni druzstvo"
+  },
+  {
+    "country_code": "HU",
+    "primary": true,
+    "bic": "HZMNHUHH",
+    "bank_code": "308",
+    "name": "HUNFedezetkezel\u0151 Zrt. K\u00f6zponti Fi\u00f3k",
+    "short_name": "HUNFedezetkezel\u0151 Zrt. K\u00f6zponti Fi\u00f3k"
+  },
+  {
+    "country_code": "HU",
+    "primary": true,
+    "bic": "SLTPISRE",
+    "bank_code": "310",
+    "name": "TEYA ICELAND HF.",
+    "short_name": "TEYA ICELAND HF."
   },
   {
     "country_code": "HU",

@@ -5,6 +5,22 @@ Changelog
 
 Versions follow `CalVer <http://www.calver.org/>`_ with the scheme ``YY.0M.Micro``.
 
+`2026.01.0`_ - 2026/01/23
+-------------------------
+Changed
+~~~~~~~
+* Removed support for deprecated Python version 3.9
+* Updated local bank registries
+
+Added
+~~~~~
+* Adding Revolut Bank UAB `@bitshift <https://github.com/bitshift>`_.
+
+Fixed
+~~~~~
+* Fix Modulr Finance `@bitshift <https://github.com/bitshift>`_.
+
+
 `2025.09.0`_ - 2025/09/22
 -------------------------
 Added
@@ -752,6 +768,7 @@ Added
 * Added :attr:`.BIC.country` and :attr:`.IBAN.country`.
 
 
+.. _2026.01.0: https://github.com/mdomke/schwifty/compare/2025.09.0...2026.01.0
 .. _2025.09.0: https://github.com/mdomke/schwifty/compare/2025.07.0...2025.09.0
 .. _2025.07.0: https://github.com/mdomke/schwifty/compare/2025.06.0...2025.07.0
 .. _2025.06.0: https://github.com/mdomke/schwifty/compare/2025.01.0...2025.06.0

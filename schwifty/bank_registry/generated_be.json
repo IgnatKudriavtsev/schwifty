@@ -4330,10 +4330,10 @@
   {
     "country_code": "BE",
     "primary": true,
-    "bic": "ADIABE22",
+    "bic": "KREDBEBB",
     "bank_code": "640",
-    "name": "KBC Bank N.V. Business Center Diamant",
-    "short_name": "KBC Bank N.V. Business Center Diamant"
+    "name": "KBC Bank",
+    "short_name": "KBC Bank"
   },
   {
     "country_code": "BE",
